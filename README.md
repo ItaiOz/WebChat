@@ -13,12 +13,11 @@ navigating through pages made via spring and with establisihng a session bean wh
 
 Chat page, displays user name, and online users.
 
-
-![ure](https://user-images.githubusercontent.com/72853162/124251308-730ad380-db2e-11eb-9616-9922bd29cc40.JPG)
+![Captssure](https://user-images.githubusercontent.com/72853162/124251566-bbc28c80-db2e-11eb-8586-ca68f8b7981c.JPG)
 
 User from another browser will be shown in the right side of the chat window
 
 
-![Capdre](https://user-images.githubusercontent.com/72853162/124251428-8f0e7500-db2e-11eb-8afc-e757762d7524.JPG)
+![ure](https://user-images.githubusercontent.com/72853162/124251308-730ad380-db2e-11eb-9616-9922bd29cc40.JPG)
 
 Serach allows the user to search by user name or message content.
